@@ -54,7 +54,7 @@
 .footer-col p {
   margin: 20px 0;
   color: #bfbfbf;
-  max-width: 300px;
+  max-width: 100%;
 }
 
 .footer-col form {
